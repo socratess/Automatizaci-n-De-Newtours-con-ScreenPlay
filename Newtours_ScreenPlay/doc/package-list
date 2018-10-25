@@ -1,0 +1,11 @@
+com.demoaut.newtours.exceptions
+com.demoaut.newtours.models
+com.demoaut.newtours.questions
+com.demoaut.newtours.runners.Login
+com.demoaut.newtours.runners.Register
+com.demoaut.newtours.stepdefinitions.Login
+com.demoaut.newtours.stepdefinitions.Register
+com.demoaut.newtours.tasks.Login
+com.demoaut.newtours.tasks.Register
+com.demoaut.newtours.userinterface.Login
+com.demoaut.newtours.userinterface.Register
